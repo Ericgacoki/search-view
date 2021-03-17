@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
             Person("Diana", 20),
             Person("Peter", 24),
             Person("Amos", 41),
-            Person("Steve", 7),
+            Person("Steve", 17),
         )
 
         personAdapter = PersonAdapter(people).also {
